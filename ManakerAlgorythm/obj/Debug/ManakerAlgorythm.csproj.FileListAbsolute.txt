@@ -1,0 +1,7 @@
+C:\Users\yuvlo\source\repos\ManakerAlgorythm\ManakerAlgorythm\bin\Debug\ManakerAlgorythm.exe.config
+C:\Users\yuvlo\source\repos\ManakerAlgorythm\ManakerAlgorythm\bin\Debug\ManakerAlgorythm.exe
+C:\Users\yuvlo\source\repos\ManakerAlgorythm\ManakerAlgorythm\bin\Debug\ManakerAlgorythm.pdb
+C:\Users\yuvlo\source\repos\ManakerAlgorythm\ManakerAlgorythm\obj\Debug\ManakerAlgorythm.csprojAssemblyReference.cache
+C:\Users\yuvlo\source\repos\ManakerAlgorythm\ManakerAlgorythm\obj\Debug\ManakerAlgorythm.csproj.CoreCompileInputs.cache
+C:\Users\yuvlo\source\repos\ManakerAlgorythm\ManakerAlgorythm\obj\Debug\ManakerAlgorythm.exe
+C:\Users\yuvlo\source\repos\ManakerAlgorythm\ManakerAlgorythm\obj\Debug\ManakerAlgorythm.pdb
